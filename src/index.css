@@ -1,0 +1,21 @@
+.tagss{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    cursor: pointer;
+    font-size: xx-large;
+    justify-content: center;
+}
+
+.linktext{
+    text-decoration: none;
+    color: white;
+}
+
+.linktext:hover{
+    color: blue;
+}
+
+.linktext:active{
+    color: red;
+}
